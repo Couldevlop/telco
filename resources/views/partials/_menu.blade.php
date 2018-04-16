@@ -25,11 +25,12 @@
 					    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					      
 					      <ul class="nav navbar-nav navbar-right">
-					        <li><a class="menu active" href="#home" >Home</a></li>
-					        <li><a class="menu" href="#about">about us</a></li>
-					        <li><a class="menu" href="#service">our services </a></li>
-					        <li><a class="menu" href="#team">our team</a></li>
-					        <li><a class="menu" href="#contact"> contact us</a></li>
+					       <li><a class="menu active" href="#home" >Accueil</a></li>
+					        <li><a class="menu" href="#about">A propos</a></li>
+					        <li><a class="menu" href="#service">Services </a></li>
+					        <li><a class="menu" href="#team">Notre Equipe</a></li>
+					        <li><a class="menu" href="realisation">Réalisations</a></li>
+					        <li><a class="menu" href="#contact"> contact</a></li>
 					      </ul>
 					    </div><!-- /navbar-collapse -->
 					  </div><!-- / .container-fluid -->

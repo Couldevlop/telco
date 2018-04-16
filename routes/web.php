@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::name('index_path')->get('/', 'HomeController@home');
+Route::name('realisation_path')->get('/realisation', 'RealisationController@realisation');
+
