@@ -12,6 +12,7 @@ a:hover, a:visited, a{
 h1, h2{
 	text-transform: uppercase;
 	font-weight: bold;
+	font-size: 26px;
 }
 
 
@@ -59,7 +60,7 @@ ul.nav{
 	padding: 0;
 }
 .navbar-default .navbar-nav>li>a {
- 	font-size: 24px;
+ 	font-size: 20px;
 	color: #000;
 	text-transform: uppercase;
 	transition: all .7s ease 0s;
@@ -97,21 +98,21 @@ li a.active{
 	background: #000 !important;
 }
 .carousel-caption h1{
-	font-size: 157px;
+	font-size: 120px;
 	color: #fff;
 	text-transform: uppercase;
 	margin-bottom: 0;
 }
 .carousel-caption p{
-	font-size: 40px;
+	font-size: 35px;
 	color: #fff;
 	text-transform: uppercase;
 	font-weight: bold;
 	margin-top: 0;
 }
 .carousel-caption button{
-	width: 240px;
-	height: 60px;
+	width: 230px;
+	height: 50px;
 	background: #3a9ecb;
 	color: #fff;
 	font-size: 30px;
@@ -752,16 +753,16 @@ responsive area
 	  margin-top: 30px;
 	}
 	.about h2 {
-	  font-size: 50px;
+	  font-size: 30px;
 	  color: #42b3e5;
-	  margin-top: 30px;
+	  margin-top: 20px;
 	}
 	.service h2 {
-	  font-size: 50px;
+	  font-size: 20px;
 	  margin-top: 40px;
 	}
 	.team h2 {
-	  font-size: 50px;
+	  font-size: 30px;
 	  margin-top: 40px;
 	}
 	h4 {

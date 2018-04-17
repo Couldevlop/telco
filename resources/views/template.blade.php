@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Ubusina - Responsive HTML5 Template</title>
+	<title>{{config('app.name')}}</title>
 	<link rel="stylesheet" href="{{URL::asset('css/font-awesome.min.css')}}">
 	<link rel="stylesheet" href="{{URL::asset('css/bootstrap.min.css')}}">
 	<link rel="stylesheet" href="{{URL::asset('css/style.css')}}">
@@ -11,14 +11,10 @@
 </head>
 
 <body>
+
+	
 @include('partials._menu')
 @yield('content')
-@include('partials/_slider')
-@include('partials/_about')
-@include('partials/_services')
-@include('partials/_team')
-@include('partials/_map')
-@include('partials/_contact')
 
 
 
