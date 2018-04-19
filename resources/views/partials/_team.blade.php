@@ -4,9 +4,9 @@
 				<div class="container">
 					<div class="row">
 						<div class="team-heading text-center">
-							<h2>our team</h2>
+							<h2>Notre equipe</h2>
 
-							<h4>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</h4>
+							<h4>Un équipe motivée, dynamique et hautement experimenter à votre service pour offrir la qualité du service via des solutions adequates</h4>
 						</div>
 
 						<div class="col-md-2 single-member col-sm-4">

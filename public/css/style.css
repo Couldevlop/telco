@@ -258,21 +258,21 @@ li a.active{
 
 /*service area*/
 .service{
-	background: url(../img/pattern.jpg);
+	background: url(../img/patter.jpg);
 	background-repeat: repeat-y;
 	margin-top: 40px;
 }
 .service h2{
-	font-size: 90px;
-	color: #fff;
-	margin-top: 70px;
+	font-size: 80px;
+	color: #42b3e5;
+	margin-top: 20px;
 	margin-bottom: 0;
 }
 .service h4{
 	font-size: 24px;
-	color: #fff;
+	color: #000;
 	margin-top: 0;
-	margin-bottom: 70px;
+	margin-bottom: 20px;
 	display: block;
 }
 .single-service{
@@ -300,6 +300,23 @@ li a.active{
 	position: absolute;
 }
 
+
+/*realisation section*/
+.realisation{
+	padding-bottom: 60px;
+}
+.realisation h2{
+	font-size: 90px;
+	color: #42b3e5;
+	margin-top: 50px;
+	margin-bottom: 0;
+}
+.realisation h4{
+	font-size: 24px;
+	color: #737373;
+	margin-top: 0;
+	margin-bottom: 45px;
+}
 
 /*team section*/
 .team{

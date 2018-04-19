@@ -3,7 +3,7 @@
 				<div class="container">
 					<div class="row">
 						<h2>A propos de nous</h2>
-						<h4>TELECO Sarl est une société incorporée en cote d'ivoire qui intervient dans le domaine des télécommunications. Précisement dans le déploiement, la maintenance, l'ingenierie et l'optimisation des reseaux mobiles. Notre mission est de fournir aux opérateurs de téléphonie mobiles un service de qualité dans le domaine du déploiement, la maintenance, les opérations, les SAV, l'ingénierie, les conseils et expertises qui leur permettront de maintenir les niveaux de qualité.</h4>
+					<div class="presentation">	<h4><strong> TELECO </strong> Sarl est une société incorporée en cote d'ivoire qui intervient dans le domaine des télécommunications. Précisement dans le déploiement, la maintenance, l'ingenierie et l'optimisation des reseaux mobiles. Notre mission est de fournir aux opérateurs de téléphonie mobiles un service de qualité dans le domaine du déploiement, la maintenance, les opérations, les SAV, l'ingénierie, les conseils et expertises qui leur permettront de maintenir les niveaux de qualité.</h4></div>
 
 						<div class="col-md-4 col-sm-6">
 							<div class="single-about-detail clearfix">
@@ -57,6 +57,21 @@
 								</div>
 							</div>
 						</div>
+						<style type="text/css">
+							
+							.presentation{
+								box-shadow: 5px 5px 5px 5px #999;
+								margin-bottom: 10px;
+								border-radius: 5px 5px 2spx 5px;
+
+							    }
+							 .presentation h4{
+                                 padding-bottom: 15px;
+                                 padding-top: 10px;
+                                 color: #fff;
+                                 background-color: #42b3e5;;
+							 }
+						</style>
 
 					</div>
 				</div>
