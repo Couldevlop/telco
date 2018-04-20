@@ -64,7 +64,7 @@
 							<div class="person-detail">
 								<div class="arrow-bottom"></div>
 								<h3>Mr. GMONROU </h3>
-								<p>Responsable marketing et publicité et de l'entreprise</p>
+								<p>Responsable marketing et publicité et de l'entreprise Lorem Ipsum has been the industry's standard dummy text ever since the 1500stext ever since the 1500s</p>
 							</div>
 						</div>
 

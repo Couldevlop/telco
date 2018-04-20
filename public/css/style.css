@@ -263,10 +263,9 @@ li a.active{
 	margin-top: 40px;
 }
 .service h2{
-	font-size: 80px;
+	font-size: 90px;
 	color: #42b3e5;
-	margin-top: 20px;
-	margin-bottom: 0;
+	margin-top: 50px;
 }
 .service h4{
 	font-size: 24px;
@@ -300,15 +299,54 @@ li a.active{
 	position: absolute;
 }
 
+/*client area*/
+.client{
+	
+	background-repeat: repeat-y;
+	margin-top: (70)px;
+}
+
+.client h2{
+	font-size: 90px;
+	color: #42b3e5;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+.single-client{
+	text-align:center;
+}
+.single-client-img {
+  width: 205px;
+  height: 125px;
+  padding-left:1px;
+  position: relative;
+}
+.client-img {
+  width: 205px;
+  height: 125px;
+  background: white;
+  position: relative;
+}
+.single-client h3{
+	margin-top: 10px;
+	color: #fff;
+	padding-bottom: 50px;
+	position:relative;
+}
+.client-img img{
+	position: absolute;
+}
+
 
 /*realisation section*/
 .realisation{
-	padding-bottom: 60px;
+	padding-bottom: 80px;
 }
 .realisation h2{
-	font-size: 90px;
+	font-size: 20px;
 	color: #42b3e5;
-	margin-top: 50px;
+	margin-top: 20px;
 	margin-bottom: 0;
 }
 .realisation h4{

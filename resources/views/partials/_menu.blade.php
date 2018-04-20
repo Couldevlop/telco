@@ -3,12 +3,12 @@
 	<header class="top-header">
 		<div class="container">
 			<div class="row">
-				<div class="col-xs-5 header-logo">
+				<div class="col-xs-4 header-logo">
 					<br>
 					<a href="index.html"><img src="img/logo telco.png" alt="" class="img-responsive logo"></a>
 				</div>
 
-				<div class="col-md-7">
+				<div class="col-md-8">
 					<nav class="navbar navbar-default">
 					  <div class="container-fluid nav-bar">
 					    <!-- Brand and toggle get grouped for better mobile display -->
@@ -30,6 +30,7 @@
 					        <li><a class="menu" href="#service">Services </a></li>
 					        <li><a class="menu" href="#team">Notre Equipe</a></li>
 					        <li><a class="menu" href="#realisation">Réalisations</a></li>
+					        <li><a class="menu" href="#client"> Client</a></li>
 					        <li><a class="menu" href="#contact"> contact</a></li>
 					      </ul>
 					    </div><!-- /navbar-collapse -->

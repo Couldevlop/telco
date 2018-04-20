@@ -42,6 +42,82 @@
 						</div>
 					</div>
 				</div>
+
+				<section class="client text-center" id="client">
+				<div class="container">
+					<div class="row">
+						<h2>Nos clients</h2>
+						
+
+						<div class="col-md-2 col-sm-6">
+							<div class="single-client">
+								<div class="single-client-img">
+									<div class="client-img">
+										<img class="img-responsive" src="img/service1.png" alt="">
+									</div>
+								</div>
+								
+							</div>
+							<h3></h3>
+						</div>
+
+						<div class="col-md-2 col-sm-6">
+							<div class="single-client">
+								<div class="single-client-img-img">
+									<div class="client-img">
+										<img class="img-responsive" src="img/service2.png" alt="">
+									</div>
+								</div>
+								
+							</div>
+						</div>
+
+						<div class="col-md-2 col-sm-6">
+							<div class="single-client">
+								<div class="single-client-img">
+									<div class="client-img">
+										<img class="img-responsive" src="img/service3.png" alt="">
+									</div>
+								</div>
+								
+							</div>
+						</div>
+
+						<div class="col-md-2 col-sm-6">
+							<div class="single-client">
+								<div class="single-client-img-img">
+									<div class="client-img">
+										<img class="img-responsive" src="img/service4.png" alt="">
+									</div>
+								</div>
+								
+							</div>
+						</div>
+
+						<div class="col-md-2 col-sm-6">
+							<div class="single-client">
+								<div class="single-client-img">
+									<div class="client-img">
+										<img class="img-responsive" src="img/service5.png" alt="">
+									</div>
+								</div>
+								
+							</div>
+						</div>
+
+						<div class="col-md-2 col-sm-6">
+							<div class="single-client">
+								<div class="single-client-img">
+									<div class="client-img">
+										<img class="img-responsive" src="img/service6.png" alt="">
+									</div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</section><!-- end of service section -->
 			</footer>
 
 </html>
