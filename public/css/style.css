@@ -163,7 +163,7 @@ li a.active{
   border-radius: 50%;
   color: transparent;
   margin-right: 0;
-  margin-top: 50px;
+  margin-top: 35px;
 }
 
 /*about area*/
@@ -260,7 +260,7 @@ li a.active{
 .service{
 	background: url(../img/patter.jpg);
 	background-repeat: repeat-y;
-	margin-top: 40px;
+	margin-top: 35px;
 }
 .service h2{
 	font-size: 90px;
@@ -309,7 +309,7 @@ li a.active{
 .client h2{
 	font-size: 90px;
 	color: #42b3e5;
-	margin-top: 15px;
+	margin-top: 40px;
 	margin-bottom: 10px;
 }
 
@@ -341,12 +341,12 @@ li a.active{
 
 /*realisation section*/
 .realisation{
-	padding-bottom: 80px;
+	padding-bottom: 60px;
 }
 .realisation h2{
-	font-size: 20px;
+	font-size: 90px;
 	color: #42b3e5;
-	margin-top: 20px;
+	margin-top: 50px;
 	margin-bottom: 0;
 }
 .realisation h4{
@@ -354,6 +354,30 @@ li a.active{
 	color: #737373;
 	margin-top: 0;
 	margin-bottom: 45px;
+}
+.single-realisation{
+	text-align:center;
+}
+.single-realisation-img {
+  width: 205px;
+  height: 125px;
+  padding-left:30px;
+  position: relative;
+}
+.realisation-img {
+  width: 205px;
+  height: 125px;
+  background: #3a9ecb;
+  position: relative;
+}
+.single-realisation h3{
+	margin-top: 10px;
+	color: #fff;
+	padding-bottom: 50px;
+	position:relative;
+}
+.realisation-img img{
+	position: absolute;
 }
 
 /*team section*/
@@ -364,7 +388,7 @@ li a.active{
 	font-size: 90px;
 	color: #42b3e5;
 	margin-top: 50px;
-	margin-bottom: 0;
+	margin-bottom: 8px;
 }
 .team h4{
 	font-size: 24px;

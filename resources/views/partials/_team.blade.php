@@ -6,7 +6,7 @@
 						<div class="team-heading text-center">
 							<h2>Notre Equipe</h2>
 
-							<h4>Nous disposons de plusieurs techniciens et de cinq ingénieurs ayant les capacités techniques et professionnelles. Le nombre peut croitre avec des agnts temporaires de qualité en fonction des offres a exécuter</h4>
+							<h4>Nous disposons de plusieurs techniciens et de cinq ingénieurs ayant les capacités techniques et professionnelles. Le nombre peut croitre avec des agents temporaires de qualité en fonction des offres a exécuter</h4>
 						</div>
 
 						<div class="col-md-2 single-member col-sm-4">

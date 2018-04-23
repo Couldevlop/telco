@@ -1,12 +1,10 @@
 			<!-- service section starts here -->
 
-			<section class="service text-center" id="realisation">
+			<section class="realisation text-center" id="realisation">
 				<div class="container">
 					<div class="row">
 						<h2>Nos réalisations</h2>
-						<h4>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</h4>
-
-						
+						<h4>Telco est aussi implantée au togo avec TELCO sarl TOGO et au Nigeria avec TELCO Nigeria Limited. Nous avons donc réalisé des travaux dans ces différnts pays, dans lesquels nous avons eu la satisfaction de nos clients</h4>
 
 						<div class="col-md-4 col-sm-6">
 						<div class="panel panel-primary">

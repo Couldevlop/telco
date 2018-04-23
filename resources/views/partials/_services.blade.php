@@ -4,7 +4,7 @@
 				<div class="container">
 					<div class="row">
 						<h2>Nos services</h2>
-						<h4>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</h4>
+						<h4>Notre mission est de fournir aux opérateurs de téléphones mobile un service de qualité qui intervient dans le domaine des télécommunications, précisement dans le déploiement, la maintenance, l'ingénierie et l'optimisation des réseaux mobiles</h4>
 
 						<!-- <div class="col-md-3 col-sm-6">
 							<div class="single-service">
@@ -52,7 +52,7 @@
 
 						<div class="col-md-4 col-sm-6">
 						<div class="panel panel-primary">
-                             <div class="panel-heading"><h4> <center>Consulting</center> </h4></div>
+                             <div class="panel-heading"><h4> <center>Déploiement et maintenance</center> </h4></div>
                              <div class="panel-body">
                              	<h4>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                              	Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
@@ -65,7 +65,7 @@
 
 					<div class="col-md-4 col-sm-6">
 						<div class="panel panel-primary">
-                             <div class="panel-heading"><h4><center>Consulting</center> </h4></div>
+                             <div class="panel-heading"><h4><center>Opérations et SAV</center> </h4></div>
                              <div class="panel-body">
                              	<h4>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                              	Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
@@ -77,7 +77,7 @@
 					</div> 
                      <div class="col-md-4 col-sm-6">
 						<div class="panel panel-primary">
-                             <div class="panel-heading"><h4><center>Consulting</center> </h4></div>
+                             <div class="panel-heading"><h4><center>Ingénierie et Conseils</center> </h4></div>
                              <div class="panel-body">
                              	<h4> Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                              	Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
