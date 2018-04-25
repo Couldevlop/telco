@@ -24,7 +24,7 @@
 								<div class="col-md-6 col-md-offset-1 contact-form">
 									<h3>laissez-nous un message</h3>
 
-									<form class="form">
+									<form method="post" action="connect.php" class="form">
 										<input class="name" type="text" placeholder="Nom">
 										<input class="email" type="email" placeholder="Email">
 										<input class="phone" type="text" placeholder="Téléphone:">

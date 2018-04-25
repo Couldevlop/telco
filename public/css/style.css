@@ -2,6 +2,7 @@ body{
 	margin: 0;
 	padding: 0;
 	font-family: 'BenchNine', sans-serif;
+	background: #f5f5f5;
 }
 li{
 	list-style: none;
@@ -18,7 +19,7 @@ h1, h2{
 
 /*header area*/
 .top-header{
-	background: #fff !important;
+	background: #f5f5f5 !important;
 	position: fixed;
 	width: 100%;
 	z-index: 99999;
@@ -304,10 +305,11 @@ li a.active{
 	
 	background-repeat: repeat-y;
 	margin-top: (70)px;
+	
 }
 
 .client h2{
-	font-size: 90px;
+	font-size: 30px;
 	color: #42b3e5;
 	margin-top: 40px;
 	margin-bottom: 10px;
@@ -325,7 +327,7 @@ li a.active{
 .client-img {
   width: 205px;
   height: 125px;
-  background: white;
+  background: #f5f5f5;
   position: relative;
 }
 .single-client h3{
@@ -590,8 +592,8 @@ li a.active{
 	padding: 0;
 }
 .footer p{
-	font-size: 12px;
-	color: #000;
+	font-size: 20px;
+	color: #fa0707;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 	margin: 0;

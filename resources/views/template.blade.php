@@ -29,26 +29,14 @@
 </body>
 <!-- footer starts here -->
 			<footer class="footer clearfix">
-				<div class="container">
-					<div class="row">
-						<div class="col-xs-6 footer-para">
-							<p>&copy;freshDesignweb.com All right reserved</p>
-						</div>
-
-						<div class="col-xs-6 text-right">
-							<a href=""><i class="fa fa-facebook"></i></a>
-							<a href=""><i class="fa fa-twitter"></i></a>
-							<a href=""><i class="fa fa-skype"></i></a>
-						</div>
-					</div>
-				</div>
 
 				<section class="client text-center" id="client">
 				<div class="container">
 					<div class="row">
+				
 						<h2>Nos clients</h2>
-						
-
+	
+				<marquee id="id1" scrollamount="20"><span onmouseover="getElementById('id1').stop();" onmouseout="getElementById('id1').start();">
 						<div class="col-md-2 col-sm-6">
 							<div class="single-client">
 								<div class="single-client-img">
@@ -115,9 +103,27 @@
 								
 							</div>
 						</div>
+						
+						</span></marquee>
 					</div>
 				</div>
-			</section><!-- end of service section -->
+			</section>
+			<div class="container">
+					<div class="row">
+						<div class="col-xs-6 footer-para">
+							<p><a href="http://www.telcoanniv.com/">www.telcoanniv.com</a></p>
+						</div>
+
+						<div class="col-xs-6 text-right">
+							<a href=""><i class="fa fa-facebook"></i></a>
+							<a href=""><i class="fa fa-twitter"></i></a>
+							<a href=""><i class="fa fa-skype"></i></a>
+						</div>
+					</div>
+				</div>
+
+
+			<!-- end of service section -->
 			</footer>
 
 </html>
